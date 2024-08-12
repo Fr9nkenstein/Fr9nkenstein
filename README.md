@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm Qichen Li, an undergraduate student at Shanghai Jiaotong University.
+
+- 🌱 I’m currently learning Mathematics and Computer Engineering.
+
+- 🔭 I’m currently working on Computer Vision, Video Synthesis.
+
+![](https://steam-current-game.vercel.app/api/?steamids=76561198882777514)
 <!--
 **Fr9nkenstein/Fr9nkenstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
